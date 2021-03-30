@@ -4,6 +4,7 @@ using System.IO;
 /// <summary>
 /// A星寻路管理器 单例模式
 /// </summary>
+/// hhhhhh
 public class AStarMgr : BaseManager<AStarMgr>
 {
     //地图的宽高
